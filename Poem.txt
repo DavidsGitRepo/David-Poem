@@ -1,4 +1,4 @@
-The Rainbow and the branch1
+The Rainbow and the branch1 and the branch2
 
 Purple
 Pink
@@ -10,3 +10,4 @@ Yellow
 Red
 These are thr colours of the rainbow
 And branch1 
+And branch2
